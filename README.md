@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 BSCS Student (2021–2025)
 - 📱 Passionate about building mobile apps using Flutter
-- 🔥 Currently working on **FitX (Wellness App)**
+- 🔥 Final Year Project **FitX (Wellness App)**
 - 🌱 Learning **Artificial Intelligence & App Architecture**
 - 💡 Interested in clean UI & scalable apps
 
