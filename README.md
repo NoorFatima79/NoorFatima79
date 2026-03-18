@@ -5,10 +5,26 @@
 
 ## 🚀 About Me
 - 🎓 BSCS Student (2021–2025)
-- 📱 Passionate about building mobile apps using Flutter
-- 🔥 Final Year Project **FitX (Wellness App)**
+- 📱 Passionate Flutter Developer with hands-on experience in building mobile apps
+- 🔥 Final Year Project is  **FitX (Wellness App)**
 - 🌱 Learning **Artificial Intelligence & App Architecture**
-- 💡 Interested in clean UI & scalable apps
+- 💡 Focused on clean UI & scalable applications
+
+---
+
+## 💼 Experience
+
+### 🔹 Flutter Developer — DS Technologies
+- Currently working as a Flutter Developer
+- Developing and maintaining mobile applications
+- Implementing modern UI/UX designs
+- Working with APIs and Firebase integration
+
+### 🔹 Flutter Developer (Internship) — Netlotec Software House & Training Centre
+- Completed 3-month internship as a Flutter Developer
+- Built responsive mobile applications using Flutter
+- Worked with Firebase (Authentication & Firestore)
+- Gained hands-on experience in real-world projects
 
 ---
 
